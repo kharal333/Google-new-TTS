@@ -1,0 +1,6 @@
+{
+  "name": "AuraVoice Studio",
+  "description": "Glassmorphic accessible Text-to-Speech studio powered by Google Gemini TTS. Convert documents and long texts up to 20,000 characters into natural voices across 20 distinct characters with real-time progress, multi-format export, offline mode, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
